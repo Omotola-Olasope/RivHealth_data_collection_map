@@ -1,0 +1,12 @@
+X,Y,id,siteno,sitename,sitetype,sitesubtyp,lettercode,easting,northing,conc_ngr,status,x_coord,y_coord,import_err,gdb_geomattr_data,icon_url
+-0.960329,51.667173,Hydrometric_Monitoring_Points.3178,"262952",ASTON ROWANT,Climate stations,Precipitation - manually read,SU,"72","97",SU7297,Open,"472000","197000",,,./0.png
+-1.003699,51.667549,Hydrometric_Monitoring_Points.3206,"263853",SHIRBURN MODEL FARM,Climate stations,Precipitation - manually read,SU,"69","97",SU6997,Open,"469000","197000",,,./0.png
+-0.916101,51.70274,Hydrometric_Monitoring_Points.9085,SP70/51,17 LOWER ROAD SEBA,Groundwater sites,Groundwater level (observation bore,SP,"75","1",SP7501,Open,"475000","201000",,,./0.png
+-1.003699,51.667549,Hydrometric_Monitoring_Points.9441,SU69/25,MODEL FARM,Groundwater sites,Groundwater level (observation bore,SU,"69","97",SU6997,Open,"469000","197000",,,./0.png
+-0.930992,51.684893,Hydrometric_Monitoring_Points.9493,SU79/82,KINGSTON BLOUNT P.S.,Groundwater sites,Groundwater level (observation bore,SU,"74","99",SU7499,Open,"474000","199000",,,./0.png
+-1.032231,51.685771,Hydrometric_Monitoring_Points.3205,"263709",STOKE TALMAGE,Climate stations,Precipitation - manually read,SU,"67","99",SU6799,Open,"467000","199000",,,./0.png
+-1.089542,51.713203,Hydrometric_Monitoring_Points.9082,SP60/50,GREAT MILTON,Groundwater sites,Groundwater level (observation bore,SP,"63","2",SP6302,Open,"463000","202000",,,./0.png
+-0.799648,51.728583,Hydrometric_Monitoring_Points.9087,SP80/49,LONGDOWN FARM,Groundwater sites,Groundwater level (observation bore,SP,"83","4",SP8304,Open,"483000","204000",,,./0.png
+-0.651956,51.825889,Hydrometric_Monitoring_Points.9107,SP91/015,PITSTONE GREEN FARM,Groundwater sites,Groundwater level (observation bore,SP,"93","15",SP9315,Open,"493000","215000",,,./0.png
+-0.652493,51.807912,Hydrometric_Monitoring_Points.9112,SP91/71C,BULBOURNE FARM OBH,Groundwater sites,Groundwater level (observation bore,SP,"93","13",SP9313,Open,"493000","213000",,,./0.png
+-0.667523,51.7901,Hydrometric_Monitoring_Points.9113,SP91/8B,16 AKEMAN STREET,Groundwater sites,Groundwater level (observation bore,SP,"92","11",SP9211,Open,"492000","211000",,,./0.png

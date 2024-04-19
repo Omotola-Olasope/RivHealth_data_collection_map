@@ -1,0 +1,28 @@
+X,Y,fid,id,siteno,sitename,sitetype,sitesubtyp,lettercode,easting,northing,conc_ngr,status,x_coord,y_coord,import_err,gdb_geomattr_data,icon_url
+-0.855279,51.819052,"1",Hydrometric_Monitoring_Points.2242,1911TH,AYLESBURY THAME,Surface water sites,Surface water level (including tide,SP,"79","14",SP7914,Open,"479000","214000",,,./0.png
+-0.957438,51.793028,"2",Hydrometric_Monitoring_Points.2264,1930TH,CUDDINGTON,Surface water sites,Surface water level (including tide,SP,"72","11",SP7211,Open,"472000","211000",,,./0.png
+-0.855279,51.819052,"3",Hydrometric_Monitoring_Points.3149,261923TP,Aylesbury STW TBR,Climate stations,Precipitation - recording,SP,"79","14",SP7914,Open,"479000","214000",,,./0.png
+-0.960329,51.667173,"4",Hydrometric_Monitoring_Points.3178,"262952",ASTON ROWANT,Climate stations,Precipitation - manually read,SU,"72","97",SU7297,Open,"472000","197000",,,./0.png
+-1.003699,51.667549,"5",Hydrometric_Monitoring_Points.3206,"263853",SHIRBURN MODEL FARM,Climate stations,Precipitation - manually read,SU,"69","97",SU6997,Open,"469000","197000",,,./0.png
+-0.916101,51.70274,"6",Hydrometric_Monitoring_Points.9085,SP70/51,17 LOWER ROAD SEBA,Groundwater sites,Groundwater level (observation bore,SP,"75","1",SP7501,Open,"475000","201000",,,./0.png
+-1.003699,51.667549,"7",Hydrometric_Monitoring_Points.9441,SU69/25,MODEL FARM,Groundwater sites,Groundwater level (observation bore,SU,"69","97",SU6997,Open,"469000","197000",,,./0.png
+-0.930992,51.684893,"8",Hydrometric_Monitoring_Points.9493,SU79/82,KINGSTON BLOUNT P.S.,Groundwater sites,Groundwater level (observation bore,SU,"74","99",SU7499,Open,"474000","199000",,,./0.png
+-0.987438,51.748333,"9",Hydrometric_Monitoring_Points.2282,1961TH,THAME BRIDGE_B4011,Surface water sites,Surface water level (including tide,SP,"70","6",SP7006,Open,"470000","206000",,,./0.png
+-0.797261,51.818473,"10",Hydrometric_Monitoring_Points.2252,1919TH,BEAR BROOK FD,Surface water sites,Surface water level (including tide,SP,"83","14",SP8314,Open,"483000","214000",,,./0.png
+-0.769232,51.782217,"11",Hydrometric_Monitoring_Points.2256,1922TH,WESTON TURVILLE,Surface water sites,Surface water level (including tide,SP,"85","10",SP8510,Open,"485000","210000",,,./0.png
+-0.812002,51.809632,"12",Hydrometric_Monitoring_Points.2262,1925TH,AYLESBURY,Surface water sites,Surface water level (including tide,SP,"82","13",SP8213,Open,"482000","213000",,,./0.png
+-0.826737,51.800788,"13",Hydrometric_Monitoring_Points.2266,1934TH,CHURCHILL AVENUE,Surface water sites,Surface water level (including tide,SP,"81","12",SP8112,Open,"481000","212000",,,./0.png
+-0.78203,51.845291,"14",Hydrometric_Monitoring_Points.2237,1904TH,ROWSHAM BRIDGE,Surface water sites,Surface water level (including tide,SP,"84","17",SP8417,Open,"484000","217000",,,./0.png
+-1.076169,51.65915,"15",Hydrometric_Monitoring_Points.2291,1984TH,CHALGROVE FWS,Surface water sites,Surface water level (including tide,SU,"64","96",SU6496,Open,"464000","196000",,,./0.png
+-1.133817,51.668581,"16",Hydrometric_Monitoring_Points.2292,1990TH,STADHAMPTON,Surface water sites,Surface water level (including tide,SU,"60","97",SU6097,Open,"460000","197000",,,./0.png
+-1.032231,51.685771,"17",Hydrometric_Monitoring_Points.3205,"263709",STOKE TALMAGE,Climate stations,Precipitation - manually read,SU,"67","99",SU6799,Open,"467000","199000",,,./0.png
+-0.960534,51.658184,"18",Hydrometric_Monitoring_Points.9487,SU79/10,HILL FARM LEWKNOR_clean,Groundwater sites,Groundwater level (observation bore,SU,"72","96",SU7296,Open,"472000","196000",,,./0.png
+-0.975394,51.640331,"19",Hydrometric_Monitoring_Points.9489,SU79/17,SHIRBURN LODGE,Groundwater sites,Groundwater level (observation bore,SU,"71","94",SU7194,Open,"471000","194000",,,./0.png
+-1.117962,51.740394,"20",Hydrometric_Monitoring_Points.2289,1980TH,WHEATLEY G.STN,Surface water sites,River flow - continuous,SP,"61","5",SP6105,Open,"461000","205000",,,./0.png
+-1.132443,51.740501,"21",Hydrometric_Monitoring_Points.3202,263541TP,WHEATLEY R22,Climate stations,Precipitation - recording,SP,"60","5",SP6005,Open,"460000","205000",,,./0.png
+-1.089542,51.713203,"22",Hydrometric_Monitoring_Points.9082,SP60/50,GREAT MILTON,Groundwater sites,Groundwater level (observation bore,SP,"63","2",SP6302,Open,"463000","202000",,,./0.png
+-0.799648,51.728583,"23",Hydrometric_Monitoring_Points.9087,SP80/49,LONGDOWN FARM,Groundwater sites,Groundwater level (observation bore,SP,"83","4",SP8304,Open,"483000","204000",,,./0.png
+-0.69703,51.772448,"24",Hydrometric_Monitoring_Points.3145,261602TP,Dancers End Resr,Climate stations,Precipitation - recording,SP,"90","9",SP9009,Open,"490000","209000",,,./0.png
+-0.651956,51.825889,"25",Hydrometric_Monitoring_Points.9107,SP91/015,PITSTONE GREEN FARM,Groundwater sites,Groundwater level (observation bore,SP,"93","15",SP9315,Open,"493000","215000",,,./0.png
+-0.652493,51.807912,"26",Hydrometric_Monitoring_Points.9112,SP91/71C,BULBOURNE FARM OBH,Groundwater sites,Groundwater level (observation bore,SP,"93","13",SP9313,Open,"493000","213000",,,./0.png
+-0.667523,51.7901,"27",Hydrometric_Monitoring_Points.9113,SP91/8B,16 AKEMAN STREET,Groundwater sites,Groundwater level (observation bore,SP,"92","11",SP9211,Open,"492000","211000",,,./0.png
