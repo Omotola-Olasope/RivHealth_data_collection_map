@@ -242,7 +242,7 @@
 				<Title>thame_catchmentoprvrs_gb___watercourse_link</Title>
 				<Abstract>GH:thame_catchmentoprvrs_gb___watercourse_link ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-1.174766564915427" miny="51.63031979402262" maxx="-0.6647741726629248" maxy="51.899767206058414"></LatLonBoundingBox>
@@ -262,7 +262,7 @@
 				<Title>thame_catchment3459_a6d99bbe_7f1c_4375_abb8_1bc13834ba31</Title>
 				<Abstract>GH:thame_catchment3459_a6d99bbe_7f1c_4375_abb8_1bc13834ba31 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-1.1776042571325" miny="51.6347762760091" maxx="-0.664680910066946" maxy="51.9266536388948"></LatLonBoundingBox>
@@ -282,7 +282,7 @@
 				<Title>thame_catchment</Title>
 				<Abstract>GH:thame_catchment ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-1.197923968064426" miny="51.61415181694904" maxx="-0.6188842576321277" maxy="51.93737771604743"></LatLonBoundingBox>
